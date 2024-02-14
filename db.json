@@ -6,19 +6,19 @@
             
         },
         {
-            "PhotoId": 2,
+            "ItemId": 2,
             "Item": "Pan aux Chocolat"
         },
         {
-            "PhotoId": 3,
+            "ItemId": 3,
             "Item": "Millefueille"
         },
         {
-            "PhotoId": 4,
+            "ItemId": 4,
              "Item": "Croissant"
         },
         {
-            "PhotoId": 5,
+            "ItemId": 5,
             "Item": "Bread"
         }
     ]
