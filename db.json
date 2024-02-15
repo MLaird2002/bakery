@@ -1,19 +1,19 @@
 {
     "BakeryGen": [
         {
-            "BakeryId": 1,
+            "BakeryId": 1
         },
         {
-            "BakeryId": 2,
+            "BakeryId": 2
         },
         {
-            "BakeryId": 3,
+            "BakeryId": 3
         },
         {
-            "BakeryId": 4,  
+            "BakeryId": 4  
         },
         {
-            "BakeryId": 5,
+            "BakeryId": 5
         }
     ]
 }
