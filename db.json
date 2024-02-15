@@ -15,11 +15,8 @@
         {
             "ItemId": 4,
             "Item": "Croissant"
-        },
-        {
-            "ItemId": 5,
-            "Item": "Bread"
         }
+       
     ],
 
     "Bakery1": [
@@ -43,12 +40,6 @@
     "Bakery4": [
         {
             "DiffId": 987,
-            "Item": "cake"
-        }
-    ],
-    "Bakery5": [
-        {
-            "DiffId": 32,
             "Item": "cake"
         }
     ]
