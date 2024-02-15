@@ -3,31 +3,26 @@
         {
             "ItemId": 1,
             "Item": "Cookie"
-        }
-    ]
-    "Bakery2": [
+        },
         {
+            "PhotoId": 2,
             "ItemId": 2,
             "Item": "Pan aux Chocolat"
-        }
-    ]
-    "Bakery3": [
+        },
         {
+            "PhotoId": 3,
             "ItemId": 3,
             "Item": "Millefueille"
-        }
-    ]
-    "Bakery4": [
+        },
         {
+            "PhotoId": 4,
             "ItemId": 4,
-             "Item": "Croissant"
-        }
-    ]
-    "Bakery5": [
+            "Item": "Croissant"
+        },
         {
+            "PhotoId": 5,
             "ItemId": 5,
             "Item": "Bread"
-        } 
+        }
     ]
-    
 }
