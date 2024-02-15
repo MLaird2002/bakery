@@ -1,19 +1,24 @@
 {
-    "BakeryGen": [
+    "Bakery5": [
         {
-            "BakeryId": 1
+            "ItemId": 1,
+            "Item": "Cookie"
         },
         {
-            "BakeryId": 2
+            "ItemId": 2,
+            "Item": "Pan aux Chocolat"
         },
         {
-            "BakeryId": 3
+            "ItemId": 3,
+            "Item": "Millefueille"
         },
         {
-            "BakeryId": 4  
+            "ItemId": 4,
+            "Item": "Croissant"
         },
         {
-            "BakeryId": 5
+            "ItemId": 5,
+            "Item": "Bread"
         }
     ]
 }
