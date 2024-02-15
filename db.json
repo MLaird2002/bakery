@@ -1,24 +1,33 @@
 {
-    "Bakery": [
+    "Bakery1": [
         {
             "ItemId": 1,
             "Item": "Cookie"
-        }, 
+        }
+    ]
+    "Bakery2": [
         {
             "ItemId": 2,
             "Item": "Pan aux Chocolat"
-        },
+        }
+    ]
+    "Bakery3": [
         {
             "ItemId": 3,
             "Item": "Millefueille"
-        },
+        }
+    ]
+    "Bakery4": [
         {
             "ItemId": 4,
              "Item": "Croissant"
-        },
+        }
+    ]
+    "Bakery5": [
         {
             "ItemId": 5,
             "Item": "Bread"
-        }    
+        } 
     ]
+    
 }
